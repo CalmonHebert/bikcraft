@@ -1,4 +1,0 @@
-# bikcraft
-# bikcraft
-# teste
-# teste
